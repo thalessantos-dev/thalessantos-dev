@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Full-Stack`**
 
-Me chamo Thales Henrique Conti dos Santos, tenho 21 anos e sou de Batatais-SP e atualmente curso Análise e Desenvolvimento de Sistemas. Também sou técnico em Desenvolvimento de Sistemas e Jogos Digitais pela ETEC. Sou apaixonado por inovação, curioso por natureza e movido pela vontade de aprender e evoluir constantemente. No meu dia a dia, gosto de jogos, livros, uma boa xícara de café e de enfrentar desafios que me ajudam a crescer.
+Me chamo Thales Henrique Conti dos Santos, tenho 21 anos, sou de Batatais-SP e atualmente curso Análise e Desenvolvimento de Sistemas, além de ser técnico em Desenvolvimento de Sistemas e Jogos Digitais pela ETEC. Sou apaixonado por inovação, curioso por natureza e movido pela vontade de aprender e evoluir constantemente. No meu dia a dia, gosto de jogar, ler, e de estudar de forma contínua, realizando cursos e enfrentando desafios que me ajudam a expandir meu conhecimento e a crescer.
 
 <div align="left">
   <a href="https://www.linkedin.com/in/thalesc-santos/" target="_blank">
