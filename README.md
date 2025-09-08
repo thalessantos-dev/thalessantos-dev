@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&fontColor=ffio6wq">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0754be&reversal=true">
 
 # 🧑🏻‍💻 Olá, sou Thales Santos!
 
@@ -179,11 +179,4 @@ Me chamo Thales Henrique Conti dos Santos, tenho 21 anos, sou de Batatais-SP e a
 <br>
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer&fontColor=ffio6gw">
-
-
-
-
-
-          
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0754be&reversal=true&section=footer">
